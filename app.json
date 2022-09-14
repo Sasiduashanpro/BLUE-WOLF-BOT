@@ -1,0 +1,24 @@
+﻿{
+  "name": "BLUE-WOLF",
+  "description": "BLUE-WOLF-BOT | By: BLUE-WOLFᵀᴹ | 𝐌𝐑: W.A.ASHAN,
+  "repository": "https://github.com/Ashanweera/Blue-Wolf-bot",
+  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
