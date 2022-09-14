@@ -32,7 +32,7 @@ LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
 ## 🌀➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@Sasidu/Blue-wolf-Bot-3?v=1)
  
-## 🌀➾ [Fork This Repo By Clicking Here](https://github.com/Ashanweera/Blue-Wolf-bot/fork)
+## 🌀➾ [Fork This Repo By Clicking Here](https://github.com/Sasiduashanpro/BLUE-WOLF-BOT/fork)
  
 ## 🌀➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
 
@@ -134,7 +134,7 @@ Recommended WhatsApp👇
 
 <div align="center">
 	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Sasidu/Blue-wolf-Bot-3?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 </div>
