@@ -10,7 +10,7 @@ Wold number 1whatsapp bot (By =Blue-wolf-whatsapp bot)
 
 ## ꧁𝘽𝙇𝙐𝙀-𝙒𝙊𝙇𝙁-𝘽𝙊𝙏꧂   Version 12.0
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘽𝙇𝙐𝙀╺+𝙒𝙊𝙇𝙁+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+BLUE+WOLF+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+W.A ASHAN;𝐌𝐑:+☬BLUE༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද අනේ 🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝘽𝙇𝙐𝙀╺+𝙒𝙊𝙇𝙁+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+W.A ASHAN;𝐌𝐑:+☬BLUE༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද අනේ 🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
 LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
 
